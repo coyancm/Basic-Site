@@ -2,8 +2,8 @@
 This page serves as a way to explore GitHub and hosting while using a basic Jekyll theme.
 
 Percs of using GitHub and Jeykll:
--It's free
--It's easy to use
--Basic set up requires little or no HTML knowledge
+- It's free
+- It's easy to use
+- Basic set up requires little or no HTML knowledge
 
 Honestly, it's **pretty** rad.
